@@ -1,6 +1,11 @@
-#👋 Hi, I'm Willy
-# Student at CUNY Baruch College majoring in Data Analytics and minoring in Physics. Some of my current coursework is in data warehousing for analytics, data visualization, marketing analytics, and data structures and algorithms. This will be my last semester, I am excited about what's to come after graduating.<br><br> 🔍 Looking forward to learning more about analytics and data science. <br> 📈 My current interests are graph theories and their applications in networks, physics, and databases.
-<br>My most recent projects are [Data Mining - Retention Project](https://github.com/Woooch/Human_Resource_Retention) and [Machine Learning Data Science Club - Candidate Hiring](https://github.com/Woooch/Candidate_Hiring) <br> Currently working on building an end-to-end Data Warehouse.
+#👋 Hi, I'm Willy 
+
+Graduate of CUNY Baruch College, majoring in Data Analytics and minoring in Physics. Some of my previous coursework lies in data warehousing for analytics, data visualization, marketing analytics, data structures and algorithms, and physics. My interest lies in helping people solve complex challenges using my military and educational background. <br><br> 
+
+🔍 I look forward to the evolution and integration of data into our daily life. <br> 
+📈 My current interests are graph theories and their applications in networks, physics, and databases.<br>
+
+My latest completed project while in university is the [Housing Data Warehouse](https://github.com/Woooch/HousingPrice_DataWarehouse), where we built an end-to-end data warehouse that stores housing data from 2019 to 2024.
 
 # 💻 Tech Stack
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
