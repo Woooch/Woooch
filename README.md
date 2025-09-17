@@ -1,5 +1,5 @@
 #👋 Hi, I'm Willy
-Student at CUNY Baruch College majoring in Data Analytics and minoring in Physics. Some of my current coursework is in data warehousing for analytics, data visualization, marketing analytics, and data structures and algorithms. This will be my last semester, I am excited about what's to come after graduating.<br><br> 🔍 Looking forward to learning more about analytics and data science. <br> 📈 My current interests are graph theories and their applications in networks, physics, and databases.
+# Student at CUNY Baruch College majoring in Data Analytics and minoring in Physics. Some of my current coursework is in data warehousing for analytics, data visualization, marketing analytics, and data structures and algorithms. This will be my last semester, I am excited about what's to come after graduating.<br><br> 🔍 Looking forward to learning more about analytics and data science. <br> 📈 My current interests are graph theories and their applications in networks, physics, and databases.
 <br>My most recent projects are [Data Mining - Retention Project](https://github.com/Woooch/Human_Resource_Retention) and [Machine Learning Data Science Club - Candidate Hiring](https://github.com/Woooch/Candidate_Hiring) <br> Currently working on building an end-to-end Data Warehouse.
 
 # 💻 Tech Stack
